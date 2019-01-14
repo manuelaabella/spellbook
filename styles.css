@@ -1,0 +1,42 @@
+body{
+  background-image:url(https://thumbs.gfycat.com/TheseTidyBasenji-small.gif);
+  background-position: center;
+  text-align:center;
+  
+}
+
+.spells{
+    color:DeepPink;
+   font-family: 'Oleo Script', cursive;
+  font-family: 'Petit Formal Script', cursive;
+  font-size:20px;
+}
+
+.Luna-lovegood{
+    color:DeepPink;
+    font-family: 'Marck Script', cursive;
+    font-size:30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+button{
+    width: 100px;   
+    height: 40px;
+    font-size: 15px;
+    background: darkblue;
+    color: DeepPink;
+    border-radius: 50px;
+    transition: all .3s;
+    margin:10px;  
+}
+
+button:hover {
+    border-radius: 5px;
+    color:skyblue;
+}
